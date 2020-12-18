@@ -4,9 +4,9 @@ Hallo!
 
 Dieses Repository enthält Informationen über die Mastodon-Instanz [nrw.social](https://nrw.social).
 
-Du kannst unsere aktuelle block/silence-Liste in [blocked_instances.md](/blocked_instances.md) und unsere aktuellen Server-Regeln in [about.md](/about.md) einsehen.
+Du kannst unsere aktuellen Server-Regeln in [about.md](/about.md) einsehen.
 
-Wenn dich etwas an unserer Instanz stört, kannst du dich an [@dbeaver](https://nrw.social/@dbeaver) oder [@natalina](https://nrw.social/@natalina) per Mastodon oder E-Mail wenden. Wenn du möchtest, dass nrw.social einen Domainblock hinzufügten? Dann schreib uns doch oder erstelle direkt einen Pull request.
+Wenn dich etwas an unserer Instanz stört, kannst du dich an [@dbeaver](https://nrw.social/@dbeaver) oder [@natalina](https://nrw.social/@natalina) per Mastodon oder E-Mail wenden. 
 
 Ihr könnt dieses Repository gerne als Vorlage für euere eigene Instanz benutzen.
 
