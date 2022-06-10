@@ -36,16 +36,12 @@ Achte auch darauf was du postest. Toots auf Mastodon sind erst einmal öffentlic
     Sollten aber einzelne Instanzen dauerhaft entgegen unserer Regeln handeln, können diese durch uns stummgeschaltet oder gesperrt werden.
     Haben wir deiner Meinung nach eine falsche Entscheidung getroffen? Dann kontaktiere uns!</p>
 
-<!--<h4>Relaying</h4>
-Aktuell spiegelt diese Instanz alle öffentlichen Inhalte über Relays auf andere Instanzen. Das genutzte Relay kannst du unter <a href="https://relay.chemnitz.social">relay.chemnitz.social</a> einsehen.
-Dort sind alle Instanzen aufgezählt, die gespiegelt werden.
-
-<h4>Was bedeutet Relaying?</h4>
-Alle Nachrichten (Toots), die öffentlich markiert sind und auf der lokalen Zeitleiste erscheinen, werden auf das o.g. Relay übergeben
-und somit zusätzlich in den lokalen Zeitleisten auf den teilnehmenden anderen Instanzen eingeblendet. Dies fördert kleinere Instanzen, um
-mehr Inhalte in der lokalen Zeitleiste angezeigt zu bekommen.-->
-
-
+<h3>E-Mail-Anbieter</h3>
+<p>Eigentlich möchten wir euch bei der Wahl eures Mail-Anbieters nicht einschränken. Leider kommt es bei folgenden Mail-Anbietern zu Problemen, weshalb eine Registrierung (eventuell) nicht möglich ist:</p>
+<ul>
+<li><strong>gmail.com</strong><br>Da sich ein Großteil der Spam-Accounts mit gmail.com registriert, haben wir die Registrierung über gmail.com gesperrt. Habt ihr eure Mail-Adresse bei Google, könnt ihr bei der Registrierung einfach <strong>gmail.com</strong> durch <strong>googlemail.com</strong> ersetzen.</li>
+<li><strong>outlook, live, hotmail</strong><br>Leider sperrt Microsoft gerne kleinere Mail-Server wie unseren. Die Registrierungsmails können dann nicht zugestellt werden. Wir empfehlen euch generell einen anderen Mail-Anbieter zu verwenden, da nie garantiert werden kann, dass Mails die euch erreichen sollen, auch ankommen.</li>
+</ul>
 
 <h3>Backups und Verfügbarkeit</h3>
 Es werden tägliche Backups der Instanz angelegt.<br>
@@ -57,10 +53,23 @@ Sollte dies der Fall sein, geben wir uns Mühe, dies mindestens 3 Monate im Vora
 <li> dem "About" von <a href="https://chaos.social">chaos.social</a> verfügbar in deren <a href="https://github.com/chaossocial/about">Github-Repository</a></li>
 <li>dem "About" von <a href="https://rollenspiel.social">rollenspiel.social</a></li>
 <li><a href="https://chemnitz.social">chemnitz.social</a></li>
-
-
 </ul>
 </div>
+
+<h3>Spenden</h3>
+Wir stellen nrw.social werbe- und trackerfrei in unserer Freizeit zur Verfügung.
+Dafür fallen im Moment folgende Kosten an:
+<ul>
+<li>ein Root-Server für 40€ monatlich</li>
+<li>die nrw.social Domain für 45,37 € jährlich</li>
+</ul><br>
+
+Wir machen das gerne und erwarten auch nichts als Gegenleistung von dir. Wenn du uns dafür trotzdem etwas zurückgeben möchtest, kannst du das auf verschiedenen Wegen tun:
+<ul>
+<li><a href="https://liberapay.com/dbeaver/" target="_blank">liberapay</a> via PayPal oder Stripe</li>
+<li><a href="https://ko-fi.com/dbeaver" target="_blank">ko-fi</a> via PayPal oder Stripe</li>
+<li>direkt per <a href="https://www.paypal.com/paypalme/dbieber94" target="_blank">PayPal</a></li>
+</ul>
 <hr>
 
 <h3>Team</h3>
@@ -76,4 +85,4 @@ Sülztalplatz 1<br/>
 Deutschland<br/>
 <a href="mailto:webmaster@nrw.social">webmaster@nrw.social</a><br/><br/>
 
-<div id="rule_update">Letztes Update: 09.01.2022</div>
+<div id="rule_update">Letztes Update: 25.05.2022</div>
