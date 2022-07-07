@@ -45,16 +45,13 @@ Achte auch darauf was du postest. Toots auf Mastodon sind erst einmal öffentlic
 
 <h3>Backups und Verfügbarkeit</h3>
 Es werden tägliche Backups der Instanz angelegt.<br>
-NRW.social wird privat in unserer Freizeit betrieben. Wir erzielen keinerlei Einnahmen mit dem Angebot und finanzieren aus eigener Tasche.
+NRW.social wird privat in unserer Freizeit betrieben.
 Wir behalten uns vor, den Dienst jederzeit aus rechtlichen, technischen oder finanziellen Gründen einzuschränken oder zu beenden.
 Sollte dies der Fall sein, geben wir uns Mühe, dies mindestens 3 Monate im Voraus bekannt zu geben.
-<br><br>
-<div class="smallsource">Basierend auf <ul>
-<li> dem "About" von <a href="https://chaos.social">chaos.social</a> verfügbar in deren <a href="https://github.com/chaossocial/about">Github-Repository</a></li>
-<li>dem "About" von <a href="https://rollenspiel.social">rollenspiel.social</a></li>
-<li><a href="https://chemnitz.social">chemnitz.social</a></li>
-</ul>
-</div>
+
+<h4>Serverstatus</h4>
+<p><img src="https://status.nrw.social/api/badge/1/uptime/24?&label=Mastodon&labelSuffix="><img src="https://status.nrw.social/api/badge/5/uptime/24?&label=Mail-Server&labelSuffix="></p>
+Unter <a href="https://status.nrw.social">https://status.nrw.social</a> befindet sich ein Status Monitoring für die Dienste von NRW.social. Ausfälle und Wartungsarbeiten werden hierüber kommuniziert.
 
 <h3>Spenden</h3>
 Wir stellen nrw.social werbe- und trackerfrei in unserer Freizeit zur Verfügung.
@@ -70,6 +67,14 @@ Wir machen das gerne und erwarten auch nichts als Gegenleistung von dir. Wenn du
 <li><a href="https://ko-fi.com/dbeaver" target="_blank">ko-fi</a> via PayPal oder Stripe</li>
 <li>direkt per <a href="https://www.paypal.com/paypalme/dbieber94" target="_blank">PayPal</a></li>
 </ul>
+
+<br><br>
+<div class="smallsource">Basierend auf <ul>
+<li> dem "About" von <a href="https://chaos.social">chaos.social</a> verfügbar in deren <a href="https://github.com/chaossocial/about">Github-Repository</a></li>
+<li>dem "About" von <a href="https://rollenspiel.social">rollenspiel.social</a></li>
+</ul>
+</div>
+
 <hr>
 
 <h3>Team</h3>
@@ -85,4 +90,4 @@ Sülztalplatz 1<br/>
 Deutschland<br/>
 <a href="mailto:webmaster@nrw.social">webmaster@nrw.social</a><br/><br/>
 
-<div id="rule_update">Letztes Update: 25.05.2022</div>
+<div id="rule_update">Letztes Update: 10.06.2022</div>
