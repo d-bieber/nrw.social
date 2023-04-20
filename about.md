@@ -1,4 +1,5 @@
 <h1>NRW.social</h1>
+
 <h3>Über Uns</h3>
 Wir sind eine freundliche Mastodon Instanz aus Nordrhein-Westfalen. Ob NRW'ler oder NRW-Sympathifanten, jeder ist hier willkommen.
 
@@ -17,9 +18,11 @@ Wir tolerieren insbesondere nicht:
     <li>Hassrede, Rassismus, Sexismus, Beschimpfungen oder deren Befürwortung</li>
     <li>Diskriminierung von Geschlechtern und sexuellen Minderheiten</li>
     <li>Gewalttätige nationalistische Propaganda, Nazi-Symbolismus oder Förderung der Ideologie des Nationalsozialismus</li>
+    <li>Verbreiten von Falschinformationen</li>
     <li>Aufrufe zu Gewalttaten</li>
     <li>In Deutschland illegale Inhalte</li>
-    <li>Nicht markierter sexueller Inhalt oder Gewaltdarstellungen</li>
+    <li>Sexueller Inhalt oder Gewaltdarstellungen</li>
+    <li>Nicht markierter Sexueller Inhalt von fremden Instanzen</li>
     <li>Nicht markierte, automatisierte oder übermäßige Werbung und reine Werbe-Accounts</li>
     <li>Bots, die ohne ihre expliziten Anfragen mit Nutzern interagieren</li>
 </ul>
@@ -57,7 +60,7 @@ Unter <a href="https://status.nrw.social">https://status.nrw.social</a> befindet
 Wir stellen nrw.social werbe- und trackerfrei in unserer Freizeit zur Verfügung.
 Dafür fallen im Moment folgende Kosten an:
 <ul>
-<li>ein Root-Server für 40€ monatlich</li>
+<li>ein Root-Server für 129,47€ monatlich</li>
 <li>die nrw.social Domain für 45,37 € jährlich</li>
 </ul><br>
 
@@ -81,13 +84,13 @@ Wir machen das gerne und erwarten auch nichts als Gegenleistung von dir. Wenn du
 <ul>
     <li><a href="https://nrw.social/@dbeaver">@dbeaver</a> (Betreiber)</li>
     <li><a href="https://nrw.social/@natalina">@natalina</a> (Administrator)</li>
+    <li><a href="https://nrw.social/@andreS">@andreS</a> (Moderator)</li>
+    <li><a href="https://nrw.social/@Bilchi">@Bilchi</a> (Moderatorin)</li>
+    <li><a href="https://nrw.social/@RainerRoessler">@RainerRoessler</a> (Moderator)</li>
+    <li><a href="https://nrw.social/@unnon89">@unnon89</a> (Moderator)</li>
+
 </ul>
+<hr>
+\> <a href="https://nrw.social/privacy-policy">Impressum/Datenschutzerklärung</a>
 
-<h3>Impressum</h3>
-Dominik Bieber<br/>
-Sülztalplatz 1<br/>
-51503 Rösrath<br/>
-Deutschland<br/>
-<a href="mailto:webmaster@nrw.social">webmaster@nrw.social</a><br/><br/>
-
-<div id="rule_update">Letztes Update: 10.06.2022</div>
+<div id="rule_update">Letztes Update: 24.11.2022</div>
